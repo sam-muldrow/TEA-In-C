@@ -1,4 +1,7 @@
 # Tiny Encryption Algorithm Implementation In C!
+
+https://www.tayloredge.com/reference/Mathematics/TEA-XTEA.pdf
+
 ## How to use:
 Run makefile `make cbc`
 
